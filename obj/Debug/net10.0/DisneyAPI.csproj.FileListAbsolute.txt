@@ -1,0 +1,14 @@
+D:\Estudos\Faculdade Atv\DisneyAPI\bin\Debug\net10.0\DisneyAPI.exe
+D:\Estudos\Faculdade Atv\DisneyAPI\bin\Debug\net10.0\DisneyAPI.deps.json
+D:\Estudos\Faculdade Atv\DisneyAPI\bin\Debug\net10.0\DisneyAPI.runtimeconfig.json
+D:\Estudos\Faculdade Atv\DisneyAPI\bin\Debug\net10.0\DisneyAPI.dll
+D:\Estudos\Faculdade Atv\DisneyAPI\bin\Debug\net10.0\DisneyAPI.pdb
+D:\Estudos\Faculdade Atv\DisneyAPI\obj\Debug\net10.0\DisneyAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Faculdade Atv\DisneyAPI\obj\Debug\net10.0\DisneyAPI.AssemblyInfoInputs.cache
+D:\Estudos\Faculdade Atv\DisneyAPI\obj\Debug\net10.0\DisneyAPI.AssemblyInfo.cs
+D:\Estudos\Faculdade Atv\DisneyAPI\obj\Debug\net10.0\DisneyAPI.csproj.CoreCompileInputs.cache
+D:\Estudos\Faculdade Atv\DisneyAPI\obj\Debug\net10.0\DisneyAPI.dll
+D:\Estudos\Faculdade Atv\DisneyAPI\obj\Debug\net10.0\refint\DisneyAPI.dll
+D:\Estudos\Faculdade Atv\DisneyAPI\obj\Debug\net10.0\DisneyAPI.pdb
+D:\Estudos\Faculdade Atv\DisneyAPI\obj\Debug\net10.0\DisneyAPI.genruntimeconfig.cache
+D:\Estudos\Faculdade Atv\DisneyAPI\obj\Debug\net10.0\ref\DisneyAPI.dll
